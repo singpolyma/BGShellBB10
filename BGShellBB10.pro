@@ -3,7 +3,6 @@ TARGET = BGShellBB10
 
 CONFIG += qt thread warn_on debug_and_release cascades
 
-INCLUDEPATH += ./
 SOURCES += *.cpp
 HEADERS += *.h
 LIBS += -lbbplatform
